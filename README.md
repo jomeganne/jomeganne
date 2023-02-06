@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Hi, I'm Megan! <br/> Below is a little bit about me... 😄</h1>
 
-<!--
-**jomeganne/jomeganne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🌱 What I'm Learning Outside of Class:</h2>
 
-Here are some ideas to get you started:
+- <b>ReactJS</b>
+- <b>.NET</b>
+- <b>REST</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>HTML/CSS</b>
+  - TBD
+- <b>Javascript</b>
+  - TBD
+- <b>Java</b>
+  - TBD
+- <b>C++</b>
+  - TBD
+
+<h2>✍ Education *December 2023</h2>
+
+- Computer Information Systems, AAS
+- Web Development, Diploma
+- Computer Languages, Diploma
+- Java Application Developer, Certificate
+- C++ Application Developer, Certificate
